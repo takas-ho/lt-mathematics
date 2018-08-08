@@ -12,10 +12,10 @@
 
 # 問題
 
-1辺の長さが1の正m角形の各辺の外側に  
-1辺の長さが1の正n角形を1つずつくっつけた時  
-くっつけた正n角形の隣り合う2つが  
-1辺を共有するようなm,nの組として  
+1辺の長さが1の正<span style="color: green;">m</span>角形の各辺の外側に  
+1辺の長さが1の正<span style="color: orange;">n</span>角形を1つずつくっつけた時  
+くっつけた正<span style="color: orange;">n</span>角形の隣り合う2つが  
+1辺を共有するような<span style="color: green;">m</span>,<span style="color: orange;">n</span>の組として  
 考えられるものを全て求めなさい
 
 [BGM](./media/Chopin_valse64-2_k.mid)
